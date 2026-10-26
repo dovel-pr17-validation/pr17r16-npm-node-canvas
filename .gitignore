@@ -1,0 +1,24 @@
+bin
+canvas.node
+.DS_Store
+.lock-wscript
+test/images/*.png
+examples/*.png
+examples/*.jpg
+examples/*.pdf
+testing
+out.png
+out.pdf
+out.svg
+.pomo
+node_modules
+
+# Vim cruft
+*.swp
+*.un~
+npm-debug.log
+
+.idea
+
+.zig-cache/
+zig-pkg/
